@@ -81,6 +81,7 @@ class SearchPerson extends React.Component {
         </StyledCards>
       </div>
     );
+    
   }
 }
 
